@@ -1,0 +1,1 @@
+ALTER TABLE public.albums ADD COLUMN tunemusics_url text NOT NULL DEFAULT '';

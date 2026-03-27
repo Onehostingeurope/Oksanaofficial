@@ -1,0 +1,1 @@
+ALTER TABLE site_settings ADD CONSTRAINT site_settings_key_unique UNIQUE (key);
